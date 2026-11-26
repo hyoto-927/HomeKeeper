@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-labelledby="title desc">
+  <title id="title">HomeKeeper data lineage reviewed</title>
+  <desc id="desc">Real transactions and infrastructure are distinguished from synthetic contract labels and relative score. Missing independent real-world labels prevent validation.</desc>
+  <rect width="1000" height="350" rx="22" fill="#f1f5f3"/>
+  <g font-family="Arial, sans-serif">
+    <text x="34" y="37" font-size="19" font-weight="bold" fill="#102c38">DATA LINEAGE  /  EVIDENCE VS ASSUMPTION</text>
+    <text x="34" y="61" font-size="13" fill="#526b71">Real inputs do not imply real fraud outcomes.</text>
+    <g fill="#dcefe7" stroke="#72a993"><rect x="34" y="85" width="264" height="92" rx="12"/><rect x="34" y="193" width="264" height="83" rx="12"/></g>
+    <g fill="#fff0da" stroke="#d59d52"><rect x="365" y="85" width="264" height="92" rx="12"/><rect x="365" y="193" width="264" height="83" rx="12"/></g>
+    <g fill="#e4ecf1" stroke="#83a8bb"><rect x="696" y="85" width="270" height="92" rx="12"/><rect x="696" y="193" width="270" height="83" rx="12"/></g>
+    <g font-size="12" font-weight="bold"><text x="50" y="108" fill="#237257">REAL INPUT</text><text x="50" y="215" fill="#237257">REAL INPUT</text><text x="381" y="108" fill="#9a671e">SYNTHETIC DESIGN</text><text x="381" y="215" fill="#9a671e">SYNTHETIC AGGREGATE</text><text x="712" y="108" fill="#305f77">EXPLORATORY MODEL</text><text x="712" y="215" fill="#305f77">TEAM PROTOTYPE</text></g>
+    <g font-size="20" font-weight="bold" fill="#102c38"><text x="50" y="138">Transactions</text><text x="50" y="245">Infrastructure</text><text x="381" y="138">Contract labels</text><text x="381" y="245">A_realistic</text><text x="712" y="138">B_train / B_test</text><text x="712" y="245">Regional dashboard</text></g>
+    <g fill="#455f63" font-size="12"><text x="50" y="158">Reference distributions</text><text x="50" y="262">Separate dashboard layer</text><text x="381" y="158">Assumed correlation and labels</text><text x="381" y="262">Area-level synthetic indicators</text><text x="712" y="158">Detection and limits</text><text x="712" y="262">Relative signals, not probabilities</text></g>
+    <g stroke="#5f7779" stroke-width="2" fill="none" stroke-linejoin="round"><path d="M298 131 H353 l-7 -5 m7 5 l-7 5"/><path d="M629 131 H684 l-7 -5 m7 5 l-7 5"/><path d="M497 177 V185 l-5 -6 m5 6 l5 -6"/><path d="M629 234 H684 l-7 -5 m7 5 l-7 5"/><path d="M166 276 V286 H830 V276" stroke-dasharray="4 4"/></g>
+    <rect x="34" y="297" width="932" height="33" rx="8" fill="#102c38"/>
+    <text x="48" y="319" fill="#f3f7f7" font-size="13" font-weight="bold">MISSING EVIDENCE  ·  Independent, observed contract-level fraud labels → no real-world predictive validation</text>
+  </g>
+</svg>

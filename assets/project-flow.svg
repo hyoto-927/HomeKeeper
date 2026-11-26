@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="284" viewBox="0 0 1000 284" role="img" aria-labelledby="title desc">
+<title id="title">HomeKeeper project flow</title><desc id="desc">Data sources, neighborhood indicators, exploratory models, and map prototype. Portfolio review separates synthetic validation from original results.</desc>
+<rect width="1000" height="284" rx="24" fill="#102c38"/>
+<text x="36" y="48" fill="#e4f4ed" font-family="Arial,sans-serif" font-size="25" font-weight="bold">HOMEKEEPER  /  PROJECT FLOW</text>
+<text x="36" y="78" fill="#a6d7d1" font-family="Arial,sans-serif" font-size="15">Team project · 2025</text>
+<g font-family="Arial,sans-serif">
+<g fill="#e9f6f2"><rect x="36" y="101" width="212" height="102" rx="12"/><rect x="274" y="101" width="212" height="102" rx="12"/><rect x="512" y="101" width="212" height="102" rx="12"/><rect x="750" y="101" width="212" height="102" rx="12"/></g>
+<g fill="#146c60" font-size="13" font-weight="bold"><text x="52" y="127">01  ACQUIRE</text><text x="290" y="127">02  PREPARE</text><text x="528" y="127">03  EXPLORE</text><text x="766" y="127">04  PRESENT</text></g>
+<g fill="#102c38" font-size="20" font-weight="bold"><text x="52" y="154">Data sources</text><text x="290" y="154">Area indicators</text><text x="528" y="154">Model comparison</text><text x="766" y="154">Map prototype</text></g>
+<g fill="#41605f" font-size="12.5"><text x="52" y="178">Housing and amenities</text><text x="290" y="178">Geographic matching</text><text x="528" y="178">Risk signal scoring</text><text x="766" y="178">Neighborhood context</text></g>
+<g fill="#81d9c5" font-size="18" font-weight="bold"><text x="253" y="161">›</text><text x="491" y="161">›</text><text x="729" y="161">›</text></g>
+<rect x="36" y="220" width="926" height="38" rx="8" fill="#214b51"/>
+<text x="50" y="244" fill="#def7ed" font-size="15">PORTFOLIO REVIEW  ·  Privacy-aware documentation  /  Independent synthetic validation demo</text></g></svg>
+
