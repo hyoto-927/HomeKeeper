@@ -45,7 +45,7 @@ def main():
         "single_signal": {i: row["high_collateral_share"] for i, row in rows.items()},
     }
     matrix = top_k_overlap(scores)
-    print("FICTIONAL IDS ONLY — overlap is not accuracy")
+    print("FICTIONAL IDS ONLY - overlap is not accuracy")
     print(f"Visible weight sum: {sum(WEIGHTS.values()):.2f}")
     print("method," + ",".join(matrix))
     for name, counts in matrix.items():

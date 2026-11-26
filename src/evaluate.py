@@ -47,7 +47,7 @@ def main():
     train, test = partition(generate())
     X, Xtest = design(train), design(test)
     y, ytest = [r[TARGET] for r in train], [r[TARGET] for r in test]
-    print("SYNTHETIC ONLY — not real-world or original-team performance")
+    print("SYNTHETIC ONLY - not real-world or original-team performance")
     print(f"Train {len(train)} rows; test {len(test)} rows; spatial and temporal holdout")
     print(f"{'Model':<25} {'MAE':>8} {'RMSE':>8} {'R2':>8}")
 

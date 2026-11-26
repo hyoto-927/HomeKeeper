@@ -70,7 +70,7 @@ def main():
     scoring = simulate(81, 1200, "SCORE")
     x = lambda rows: [[r["price_ratio"], r["collateral"]] for r in rows]
     y = lambda rows: [r["fictional_label"] for r in rows]
-    print("FICTIONAL ONLY — not original B_train, B_test, A_realistic")
+    print("FICTIONAL ONLY - not original B_train, B_test, A_realistic")
     print(f"Train positives: {sum(y(train))}/{len(train)}; test positives: {sum(y(test))}/{len(test)}")
     for label, class_weight in [("default", None), ("balanced", "balanced")]:
         model = LogisticRegression(class_weight=class_weight, random_state=42).fit(x(train), y(train))
